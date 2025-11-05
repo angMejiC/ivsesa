@@ -41,3 +41,6 @@ pip install -r requirements.txt
 
 # Ejecutar
 streamlit run clean_caracterizacion1.py
+
+# Para probar
+puedes bajar la base de datos de la pagina del Dane
