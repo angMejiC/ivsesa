@@ -7,3 +7,4 @@ streamlit
 scikit-learn
 openpyxl
 plotly
+folium
